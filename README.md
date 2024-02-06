@@ -6,7 +6,7 @@ Web developer
 
 Software engineer, JavaScript enthusiast. I read novels and mess around with books in my spare time. Open to new opportunities.
 
-* 🌍  I'm based in Kabul, Afghanistan
+* 🌍  I'm based in Berlin, Germany
 * ✉️  You can contact me at [tokhielhama30@gamil.com](mailto:tokhielhama30@gamil.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Projects
