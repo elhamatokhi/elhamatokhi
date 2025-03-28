@@ -39,4 +39,4 @@ src="https://img.shields.io/github/followers/elhamatokhi?logo=github&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div><br />
